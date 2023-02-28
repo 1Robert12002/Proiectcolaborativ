@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c85b7d0-9606-4746-b470-8bc8fa6a4c88" name="Changes" comment="Proiect">
-      <change afterPath="$PROJECT_DIR$/Pisica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pisica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pisica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\OneDrive\Desktop\Java projects\Proiectcolaborativ\src\main\java\org\example" />
+      <recent name="C:\Users\rober\OneDrive\Desktop\Java projects\Proiectcolaborativ\src" />
+      <recent name="C:\Users\rober\OneDrive\Desktop\Java projects\Proiectcolaborativ\src\main" />
+      <recent name="C:\Users\rober\OneDrive\Desktop\Java projects\Proiectcolaborativ\src\main\java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +67,7 @@
       <workItem from="1677572601663" duration="462000" />
       <workItem from="1677559063389" duration="145000" />
       <workItem from="1677559348178" duration="191000" />
+      <workItem from="1677602779862" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="Proiect">
       <created>1677572733095</created>
